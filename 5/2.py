@@ -1,4 +1,3 @@
-# -- coding: utf-8 --
 def input():
     n = 0
     while n < 2:
